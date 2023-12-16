@@ -1,0 +1,55 @@
+body{
+
+    background-color: chocolate;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+
+}
+
+
+h1{
+
+   padding-block: 40px;
+   font-size: 70px;
+   
+}
+
+span{
+
+    color: white;
+}
+
+p{
+
+    font-size: 40px;
+}
+
+.btnn button{
+
+
+    padding: 20px 50px;
+    background-color: burlywood;
+    border: 1px solid burlywood ;
+    border-radius: 5px;
+    transition: all 1s;
+}
+
+.btnn button:hover{
+
+ background-color: brown;
+ border: 1px solid brown;
+ color: white;
+
+}
+
+h3{
+
+
+    color: rosybrown;
+}
+
+.q{
+
+    color: rgba(0, 0, 0, 0.645);
+}
+
